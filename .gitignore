@@ -1,0 +1,6 @@
+.DS_Store
+/.idea
+.python-version
+/src/__pycache__
+/src/plots
+/src/plots_lambda_eq_1
